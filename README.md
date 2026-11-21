@@ -10,28 +10,35 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Gowtham+%F0%9F%91%8B;AI+%26+Data+Science+Graduate+(2026);I+build+responsive+React+web+apps;I+train+ML+models+and+ship+them+via+REST+APIs;Open+to+entry-level+Software+%2F+Frontend+%2F+Full+Stack+roles" alt="Typing SVG" />
 </a>
 <br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-gowtham-627aa0257)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowtham3507v@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-gowtham0256-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gowtham0256)
-[![Phone](https://img.shields.io/badge/Call-%2B91_9110303313-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919110303313)
- 
-![Profile Views](https://komarev.com/ghpvc/?username=gowtham0256&label=Profile%20Views&color=0e75b6&style=flat)
- 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-e--gowtham-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-gowtham-627aa0257)
+[![Email](https://img.shields.io/badge/Email-gowtham3507v@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:gowtham3507v@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-gowtham0256-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/gowtham0256)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Solved-000000?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME)
+
+</div>
 </div>
 ---
  
 ## 👨‍💻 About Me
- 
-I'm an **Artificial Intelligence & Data Science graduate (B.Tech, 2026)** from Sri Sairam Engineering College, Chennai, with a strong interest in **frontend and full stack development**.
- 
-I enjoy turning ideas into clean, responsive web apps, and I also have hands-on experience training machine learning models and connecting them to web apps through REST APIs, gained across two data science internships.
- 
-- 🔭 Currently sharpening **React.js, JavaScript, Node.js** and backend fundamentals
-- 🌱 Building projects with **Git/GitHub** workflows and practicing **DSA** (100+ LeetCode problems solved)
-- 🤝 Looking for **entry-level roles**: Software Engineer · Frontend Developer · React.js Developer · Full Stack Developer
-- 🗣️ Languages: English, Telugu, Tamil, Hindi (basic)
-- 📍 Based in **Hyderabad, India** · Open to relocation / remote
----
+
+AI & Data Science graduate (B.Tech, 2026) from Sri Sairam Engineering College, Chennai, focused on building responsive web applications with **React.js and JavaScript**. I have hands-on experience from two data science internships, where I trained machine learning models in Python and integrated them into web applications through **REST APIs**.
+
+I'm now strengthening my full stack skills across **Node.js, databases and backend development**, and I'm looking to contribute to a collaborative engineering team where I can learn quickly and ship real features.
+
+### 🎯 What I'm Looking For
+**Entry-level roles:** Software Engineer · Frontend Developer · React.js Developer · Full Stack Developer
+
+### ⚡ Quick Facts
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech, AI & Data Science (2026), CGPA 7.87 |
+| 💼 **Experience** | 2 Data Science Internships (CODTECH IT Solutions, Blitzwork) |
+| 🧠 **Problem Solving** | 100+ DSA problems solved on LeetCode |
+| 🛠️ **Currently Learning** | Node.js, backend development, full stack project architecture |
+| 🗣️ **Languages** | English, Telugu, Tamil (professional) · Hindi (basic) |
+| 📍 **Location** | Hyderabad, India · Open to relocation and remote work |
  
 ## 🛠️ Tech Stack
  
